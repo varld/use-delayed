@@ -1,6 +1,6 @@
 # Use Delayed
 
-A React hook for delaying a value.
+A React hook for delaying updates of a value.
 
 ## Install
 
