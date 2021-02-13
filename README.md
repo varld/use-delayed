@@ -45,6 +45,6 @@ let delayed = useDelayed(value, 500, ['a', 'b']);
 
 ## License
 
-MIT © [Tobias Herber](https://herber.space)
+MIT © [Tobias Herber](https://github.com/herber)
 
-
+[![Made by Varld](https://potato.varld.co/oss/badge.svg)](https://varld.co)
